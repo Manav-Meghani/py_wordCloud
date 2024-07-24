@@ -32,15 +32,15 @@ pip install wordcloud matplotlib
 
   4. The script will generate and display a word cloud based on the text file.
 
-**## Example**
+## Example
 
 Here's an example of what the word cloud might look like:
 
 
-**## License**
+## Installation
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**## Contributing**
+## Installation
 1. Fork the repository.
 2. Create your feature branch (git checkout -b feature/your-feature).
 3. Commit your changes (git commit -m 'Add some feature').
